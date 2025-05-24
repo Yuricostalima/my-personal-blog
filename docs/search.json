@@ -2,16 +2,16 @@
   {
     "objectID": "sobre.html",
     "href": "sobre.html",
-    "title": "Sobre",
+    "title": "Sobre mim",
     "section": "",
-    "text": "Sobre mim\nMe chamo Yuri, sou desenvolvedor web e analista de dados. Trabalho com Python, React, SQL e gosto muito de aprender e compartilhar conhecimento.\nEste blog é um espaço para documentar minha jornada, projetos e aprendizados."
+    "text": "Me chamo Yuri, sou desenvolvedor web e analista de dados. Trabalho com Python, React, SQL e gosto muito de aprender e compartilhar conhecimento.\nEste blog é um espaço para documentar minha jornada, projetos e aprendizados."
   },
   {
-    "objectID": "posts/primeiro-post.html",
-    "href": "posts/primeiro-post.html",
-    "title": "Meu Primeiro Post",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "👋 Bem-vindo ao meu blog!",
     "section": "",
-    "text": "🎉 Primeiro Post no Blog!\nEste é meu primeiro post utilizando Quarto. Aqui você verá conteúdos sobre:\n\nDesenvolvimento web\nAnálise de dados\nPython, SQL, React e muito mais\n\nFique à vontade para explorar!"
+    "text": "Aqui compartilho meus projetos, aprendizados e algumas reflexões sobre tecnologia, programação e análise de dados.\n🚀 Explore os posts e projetos no menu acima."
   },
   {
     "objectID": "about.html",
@@ -19,13 +19,6 @@
     "title": "About",
     "section": "",
     "text": "About this site"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Início",
-    "section": "",
-    "text": "👋 Bem-vindo ao meu blog!\nAqui compartilho meus projetos, aprendizados e algumas reflexões sobre tecnologia, programação e análise de dados.\n🚀 Explore os posts e projetos no menu acima."
   },
   {
     "objectID": "projetos.html",

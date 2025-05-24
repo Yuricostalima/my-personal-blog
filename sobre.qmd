@@ -1,8 +1,6 @@
 ---
-title: "Sobre"
+title: "Sobre mim"
 ---
-
-# Sobre mim
 
 Me chamo **Yuri**, sou desenvolvedor web e analista de dados. Trabalho com Python, React, SQL e gosto muito de aprender e compartilhar conhecimento.
 

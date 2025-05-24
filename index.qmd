@@ -1,9 +1,7 @@
 ---
-title: "Início"
+title: "👋 Bem-vindo ao meu blog!"
 format: html
 ---
-
-# 👋 Bem-vindo ao meu blog!
 
 Aqui compartilho meus projetos, aprendizados e algumas reflexões sobre tecnologia, programação e análise de dados.
 

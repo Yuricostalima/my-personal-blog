@@ -1,86 +1,163 @@
-/* Fundo geral */
+/* Fundo Geral */
 body {
-  background-color: #000a1f;
-  color: #cfd8dc;
-}
-
-/* Títulos */
-h1, h2, h3, h4, h5, h6 {
-  color: #00bfff;
-}
-
-/* Links */
-a {
-  color: #3399ff;
-}
-
-a:hover {
-  color: #00bfff;
-  text-decoration: underline;
+  background-color: #121212;
+  color: #E0E0E0;
 }
 
 /* Navbar */
 .navbar {
-  background-color: #001f3f !important;
+  background-color: #1E1E1E !important;
   border-radius: 10px;
 }
 
 .navbar-brand, .navbar-nav .nav-link {
-  color: #cfd8dc !important;
+  color: #E0E0E0 !important;
 }
 
 .navbar-nav .nav-link:hover {
-  color: #00bfff !important;
+  color: #00BFFF !important; /* Hover em violeta claro */
 }
 
-/* Rodapé */
+/* Footer */
 .page-footer {
-  background-color: #001f3f;
-  color: #cfd8dc;
-  padding: 20px 0;
-  text-align: center;
+  background-color: #1E1E1E;
+  color: #B0B0B0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.page-footer .nav {
+  margin: 0 auto;
 }
 
 .page-footer i {
-  color: #00bfff;
+  color: #00BFFF;
+  font-size: 2rem;
   transition: 0.3s;
 }
 
 .page-footer i:hover {
-  color: #00ffff;
+  color: #00BFFF;
   transform: scale(1.2);
 }
 
-.page-footer p {
-  margin-bottom: 8px;
+/* Títulos */
+h1, h2, h3, h4, h5, h6 {
+  color: #FFFFFF;
 }
 
-/* Cards, blocos e containers */
-.card, .panel {
-  background-color: #001a33;
-  color: #cfd8dc;
+/* Links */
+a {
+  color: #00BFFF;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #00BFFF;
+  text-decoration: underline;
+}
+
+/* Cards, Containers */
+.card, .panel, .quarto-grid-item {
+  background-color: #1A1A1A;
+  color: #E0E0E0;
   border-radius: 12px;
+  border: 1px solid #333333;
 }
 
 /* Código */
 pre, code {
-  background-color: #002244;
-  color: #00ffff;
+  background-color: #1F1F1F;
+  color: #00BFFF;
   border-radius: 6px;
 }
 
 /* Tabelas */
 table {
-  background-color: #001a33;
-  color: #cfd8dc;
+  background-color: #1A1A1A;
+  color: #E0E0E0;
 }
 
 th {
-  background-color: #002244;
-  color: #00bfff;
+  background-color: #262626;
+  color: #00BFFF;
 }
 
-/* Ajuste para listas */
+td {
+  background-color: #1A1A1A;
+  color: #E0E0E0;
+}
+
+/* Listas */
 li {
-  color: #cfd8dc;
+  color: #E0E0E0;
+}
+
+/* === Destaque na página ativa da Navbar === */
+.navbar-nav .nav-link.active {
+  color: #00BFFF !important;
+  border-bottom: 2px solid #00BFFF;
+  font-weight: bold;
+}
+
+/* .navbar-nav .nav-link.active:hover {
+  background-color: rgba(155, 93, 229, 0.1);
+  border-radius: 8px;
+} */
+
+
+/* styles.css */
+.nav-footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav-footer .nav-links {
+    display: flex;
+    gap: 1.5rem;  /* Espaçamento entre os ícones */
+    justify-content: center;
+    flex-grow: 1;
+}
+
+.nav-footer .nav-link {
+    font-size: 1.5rem;  /* Tamanho dos ícones */
+    opacity: 0.8;
+    transition: opacity 0.3s ease;
+}
+
+.nav-footer .nav-link:hover {
+    opacity: 1;
+}
+
+.nav-footer-left, .nav-footer-right {
+    flex: 0;
+}
+
+/* Garante que o texto do footer não quebre */
+.nav-footer-left {
+    white-space: nowrap;
+    padding-left: 1rem;
+    font-size: 0.9rem;
+}
+
+/* Centraliza os ícones */
+.nav-footer-center {
+    display: flex;
+    gap: 1.3rem;
+    justify-content: center;
+    flex-grow: 1;
+}
+
+/* Aumenta os ícones */
+.nav-footer-center .nav-link {
+    font-size: 1.3rem;
+    opacity: 0.9;
+    transition: opacity 0.3s ease;
+}
+
+.nav-footer-center .nav-link:hover {
+    opacity: 1;
 }
