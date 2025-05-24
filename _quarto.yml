@@ -4,8 +4,9 @@ project:
 
 website:
   title: "Yuri | Meu Blog"
-  description: "Compartilhando projetos, ideias e aprendizados."
+  description: "Meu espaço de tecnologia, dados e projetos."
   navbar:
+    background: "#001f3f"  # Azul escuro no menu
     left:
       - text: "Início"
         href: index.qmd
@@ -17,6 +18,7 @@ website:
         href: posts/primeiro-post.qmd
 
   page-footer:
+    background: "#001f3f"
     left: "© 2025 Yuri"
     right: 
       - icon: github
@@ -25,9 +27,10 @@ website:
         href: https://www.linkedin.com/in/yuricostalima/
       - icon: globe
         href: https://yuricostalima.github.io/my-personal-blog/
-
+      - icon: whatsapp
+        href: https://wa.me/5585999259876?text=Olá%20Yuri!%20Vi%20seu%20blog%20e%20gostaria%20de%20conversar%20sobre%20sua%20jornada%20em%20tecnologia.
 format:
   html:
-    theme: cosmo
+    theme: cyborg  # Base dark (lembrando que podemos usar também darkly ou slate)
     css: styles.css
     toc: true

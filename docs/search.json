@@ -32,7 +32,7 @@
     "href": "projetos.html",
     "title": "Projetos",
     "section": "",
-    "text": "Uma memecoin criada como experimento de blockchain e marketing digital.\n\n\n\nCriação de dashboards utilizando Power BI e Streamlit.\n\n\n\nDesenvolvimento de aplicações web com React e FastAPI."
+    "text": "Uma memecoin criada como experimento de blockchain e marketing digital."
   },
   {
     "objectID": "projetos.html#pharmafun",
@@ -45,14 +45,14 @@
     "objectID": "projetos.html#dashboards-de-dados",
     "href": "projetos.html#dashboards-de-dados",
     "title": "Projetos",
-    "section": "",
-    "text": "Criação de dashboards utilizando Power BI e Streamlit."
+    "section": "📊 Dashboards de Dados",
+    "text": "📊 Dashboards de Dados\nCriação de dashboards utilizando Power BI e Streamlit."
   },
   {
     "objectID": "projetos.html#aplicações-web",
     "href": "projetos.html#aplicações-web",
     "title": "Projetos",
-    "section": "",
-    "text": "Desenvolvimento de aplicações web com React e FastAPI."
+    "section": "🌐 Aplicações Web",
+    "text": "🌐 Aplicações Web\nDesenvolvimento de aplicações web com React e FastAPI."
   }
 ]
