@@ -1,0 +1,14 @@
+---
+title: "Meu Primeiro Post"
+date: 2025-05-24
+---
+
+# 🎉 Primeiro Post no Blog!
+
+Este é meu primeiro post utilizando **Quarto**. Aqui você verá conteúdos sobre:
+
+- Desenvolvimento web
+- Análise de dados
+- Python, SQL, React e muito mais
+
+Fique à vontade para explorar!

@@ -2,5 +2,8 @@
 title: "Sobre"
 ---
 
-## Sobre mim
-Este é o conteúdo da página sobre.
+# Sobre mim
+
+Me chamo **Yuri**, sou desenvolvedor web e analista de dados. Trabalho com Python, React, SQL e gosto muito de aprender e compartilhar conhecimento.
+
+Este blog é um espaço para documentar minha jornada, projetos e aprendizados.

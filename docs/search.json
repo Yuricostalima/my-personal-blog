@@ -4,14 +4,14 @@
     "href": "sobre.html",
     "title": "Sobre",
     "section": "",
-    "text": "Este é o conteúdo da página sobre."
+    "text": "Sobre mim\nMe chamo Yuri, sou desenvolvedor web e analista de dados. Trabalho com Python, React, SQL e gosto muito de aprender e compartilhar conhecimento.\nEste blog é um espaço para documentar minha jornada, projetos e aprendizados."
   },
   {
-    "objectID": "sobre.html#sobre-mim",
-    "href": "sobre.html#sobre-mim",
-    "title": "Sobre",
+    "objectID": "posts/primeiro-post.html",
+    "href": "posts/primeiro-post.html",
+    "title": "Meu Primeiro Post",
     "section": "",
-    "text": "Este é o conteúdo da página sobre."
+    "text": "🎉 Primeiro Post no Blog!\nEste é meu primeiro post utilizando Quarto. Aqui você verá conteúdos sobre:\n\nDesenvolvimento web\nAnálise de dados\nPython, SQL, React e muito mais\n\nFique à vontade para explorar!"
   },
   {
     "objectID": "about.html",
@@ -23,8 +23,36 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "meu-blog",
+    "title": "Início",
     "section": "",
-    "text": "This is a Quarto website..\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "👋 Bem-vindo ao meu blog!\nAqui compartilho meus projetos, aprendizados e algumas reflexões sobre tecnologia, programação e análise de dados.\n🚀 Explore os posts e projetos no menu acima."
+  },
+  {
+    "objectID": "projetos.html",
+    "href": "projetos.html",
+    "title": "Projetos",
+    "section": "",
+    "text": "Uma memecoin criada como experimento de blockchain e marketing digital.\n\n\n\nCriação de dashboards utilizando Power BI e Streamlit.\n\n\n\nDesenvolvimento de aplicações web com React e FastAPI."
+  },
+  {
+    "objectID": "projetos.html#pharmafun",
+    "href": "projetos.html#pharmafun",
+    "title": "Projetos",
+    "section": "",
+    "text": "Uma memecoin criada como experimento de blockchain e marketing digital."
+  },
+  {
+    "objectID": "projetos.html#dashboards-de-dados",
+    "href": "projetos.html#dashboards-de-dados",
+    "title": "Projetos",
+    "section": "",
+    "text": "Criação de dashboards utilizando Power BI e Streamlit."
+  },
+  {
+    "objectID": "projetos.html#aplicações-web",
+    "href": "projetos.html#aplicações-web",
+    "title": "Projetos",
+    "section": "",
+    "text": "Desenvolvimento de aplicações web com React e FastAPI."
   }
 ]

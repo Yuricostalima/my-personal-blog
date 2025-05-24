@@ -1,7 +1,10 @@
 ---
-title: "meu-blog"
+title: "Início"
+format: html
 ---
 
-This is a Quarto website..
+# 👋 Bem-vindo ao meu blog!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Aqui compartilho meus projetos, aprendizados e algumas reflexões sobre tecnologia, programação e análise de dados.
+
+🚀 Explore os posts e projetos no menu acima.

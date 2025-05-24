@@ -7,5 +7,11 @@
   },
   "sobre.qmd": {
     "sobre.html": "3c18445b"
+  },
+  "posts/primeiro-post.qmd": {
+    "primeiro-post.html": "80998837"
+  },
+  "projetos.qmd": {
+    "projetos.html": "5f75a123"
   }
 }

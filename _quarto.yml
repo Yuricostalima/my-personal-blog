@@ -1,22 +1,33 @@
 project:
   type: website
-  output-dir: docs
+  output-dir: docs  # Para GitHub Pages
 
 website:
-  title: "meu-blog"
+  title: "Yuri | Meu Blog"
+  description: "Compartilhando projetos, ideias e aprendizados."
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: "Início"
+        href: index.qmd
+      - text: "Projetos"
+        href: projetos.qmd
+      - text: "Sobre"
+        href: sobre.qmd
+      - text: "Posts"
+        href: posts/primeiro-post.qmd
+
+  page-footer:
+    left: "© 2025 Yuri"
+    right: 
+      - icon: github
+        href: https://github.com/Yuricostalima
+      - icon: linkedin
+        href: https://www.linkedin.com/in/yuricostalima/
+      - icon: globe
+        href: https://yuricostalima.github.io/my-personal-blog/
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: cosmo
     css: styles.css
     toc: true
-
-
-
