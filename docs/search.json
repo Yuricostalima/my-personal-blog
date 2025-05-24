@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "sobre.html",
+    "href": "sobre.html",
+    "title": "Sobre",
+    "section": "",
+    "text": "Este é o conteúdo da página sobre."
+  },
+  {
+    "objectID": "sobre.html#sobre-mim",
+    "href": "sobre.html#sobre-mim",
+    "title": "Sobre",
+    "section": "",
+    "text": "Este é o conteúdo da página sobre."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "meu-blog",
+    "section": "",
+    "text": "This is a Quarto website..\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  }
+]
