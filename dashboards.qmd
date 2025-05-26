@@ -1,0 +1,89 @@
+---
+title: "Portfólio Power BI"
+subtitle: "Dashboards estratégicos para análise de dados"
+---
+
+## 📊 Projetos
+
+### 1️⃣ 📈 Marketing Digital
+**Análise de Performance de Campanhas**  
+Dashboard que monitora métricas essenciais de marketing digital:
+- ROI por canal (Google Ads, Meta, LinkedIn)
+- Taxa de conversão por público-alvo
+- Custo por lead adquirido
+- Tendências sazonais de engajamento  
+![Badge](https://img.shields.io/badge/STATUS-EM_BREVE-orange) 
+[▶️ Visualizar Online]()
+
+---
+
+### 2️⃣ 💼 Comercial - Vendas 2024
+**Painel de Gestão Comercial**  
+Visualização interativa do pipeline comercial:
+- Metas vs realizado por trimestre
+- Ticket médio por categoria de produto
+- Análise ABC de clientes
+- Projeção de receita para os próximos 6 meses  
+![Badge](https://img.shields.io/badge/STATUS-EM_BREVE-orange) 
+[▶️ Visualizar Online]()  
+
+---
+
+### 3️⃣ 👥 People Analytics - RH
+**Gestão Estratégica de Talentos**  
+Indicadores-chave para departamento de RH:
+- Turnover voluntário/involuntário
+- Satisfação organizacional (eNPS)
+- Tempo médio de preenchimento de vagas
+- Diversidade por gênero e faixa etária  
+![Badge](https://img.shields.io/badge/STATUS-EM_BREVE-orange) 
+[▶️ Visualizar Online]()
+
+---
+
+### 4️⃣ 🚚 Logística Integrada
+**Monitoramento Operacional**  
+Otimização da cadeia logística:
+- Tempo médio de entrega por região
+- Custo logístico vs orçamento
+- Nível de serviço (OTIF)
+- Análise de gargalos na distribuição  
+![Badge](https://img.shields.io/badge/STATUS-EM_BREVE-orange)
+[▶️ Visualizar Online]()
+
+---
+
+### 5️⃣ 💰 Saúde Financeira
+**Gestão Financeira Corporativa**  
+Principais métricas financeiras:
+- Fluxo de caixa consolidado
+- Análise DRE por unidade de negócio
+- Projeção de receitas/despesas
+- Indicadores de liquidez e endividamento  
+![Badge](https://img.shields.io/badge/STATUS-EM_BREVE-orange) 
+[▶️ Visualizar Online]()
+
+---
+
+### 6️⃣ 📊 Contabilidade Inteligente
+**Fechamento Contábil Mensal**  
+Automação de processos contábeis:
+- Balanços patrimoniais interativos
+- Conciliação bancária automatizada
+- Impostos por jurisdição
+- Análise de desvios orçamentários  
+![Badge](https://img.shields.io/badge/STATUS-EM_BREVE-orange) 
+[▶️ Visualizar Online]()
+
+---
+
+### 7️⃣ 📈 Mercado de Capitais
+**Análise de Investimentos**  
+Monitoramento de carteiras:
+- Volatilidade por ativo (ações, FIIs)
+- Correlação entre setores
+- Simulação de cenários
+- Alertas de stop gain/loss  
+![Badge](https://img.shields.io/badge/STATUS-EM_BREVE-orange) 
+[▶️ Visualizar Online]()
+

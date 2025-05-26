@@ -1,0 +1,148 @@
+---
+title: "💻 Laboratórios Práticos"
+subtitle: "Experiência de Aprendizado na Escola da Nuvem"
+---
+
+Olá! É com grande satisfação que compartilho os laboratórios práticos que desenvolvi durante minha formação na **[Escola da Nuvem](https://www.linkedin.com/search/results/all/?heroEntityKey=urn%3Ali%3Aorganization%3A71195798&keywords=Escola%20da%20Nuvem&origin=ENTITY_SEARCH_HOME_HISTORY&sid=60Y)**, um programa educacional que oferece capacitação profissional em *cloud computing*, por meio de aulas diárias ao vivo — tanto online quanto presenciais. A metodologia é imersiva, combinando fundamentos teóricos com prática *hands-on* em ambientes reais da AWS.
+
+Durante essa jornada, contei com a orientação do instrutor **[João Gaioso](https://www.linkedin.com/in/jo%C3%A3o-gaioso-7825551a0/)**, cuja expertise e abordagem pedagógica foram fundamentais para o meu desenvolvimento. Cada laboratório foi cuidadosamente estruturado para simular cenários reais do mercado, proporcionando uma experiência prática que vai muito além do conhecimento teórico, desenvolvendo as habilidades essenciais para atuar na área de *cloud*.
+
+Convido você a conhecer mais sobre o programa por meio dos links acima, que direcionam aos perfis dos envolvidos nesta jornada.
+
+---
+
+## 🚀 Lista de Labs na prática
+
+### Criando VPC e Servidor Web  
+Aprenda como configurar uma rede virtual (VPC) e hospedar um servidor web na AWS.  
+🔗 [Acessar o Lab](https://furry-thursday-4d8.notion.site/Lab-Criando-VPC-e-Servidor-Web-13edb781745081c78333e4e739ebe65e)
+
+---
+
+### Servidor de Banco de Dados + Aplicação Web  
+Monte um ambiente com banco de dados e faça a integração com uma aplicação web.  
+🔗 [Acessar o Lab](https://furry-thursday-4d8.notion.site/Crie-seu-servidor-de-banco-de-dados-e-interaja-com-seu-banco-de-dados-usando-um-aplicativo-13edb781745081278118c768dd80cbd0)
+
+---
+
+### Lab IAM  
+Explore como criar e gerenciar usuários, grupos e permissões com o AWS IAM.  
+🔗 [Acessar o Lab](https://furry-thursday-4d8.notion.site/Lab-IAM-13edb7817450817d9419f9c3da279803)
+
+---
+
+### AWS Systems Manager  
+Saiba como gerenciar instâncias EC2 de forma segura e eficiente sem necessidade de acesso SSH.  
+🔗 [Acessar o Lab](https://furry-thursday-4d8.notion.site/Usar-o-AWS-Systems-Manager-13edb78174508170ab67dc53a9600c7a)
+
+---
+
+### Criando um site estático no S3  
+Aprenda a hospedar um site estático de forma simples, escalável e barata na AWS usando o S3.  
+🔗 [Acessar o Lab](https://furry-thursday-4d8.notion.site/Criar-um-site-est-tico-no-S3-13edb7817450810cb745d77a16f11a3d)
+
+---
+
+### Solucionando problemas na criação de EC2 via CLI  
+Descubra como solucionar erros e problemas comuns ao criar instâncias EC2 pela linha de comando.  
+🔗 [Acessar o Lab](https://furry-thursday-4d8.notion.site/Solucionar-problemas-com-a-cria-o-de-uma-inst-ncia-do-EC2-via-CLI-13edb781745081e1aaf4ece6267f0731)
+
+---
+
+### Trabalhando com AWS Lambda  
+Aprenda como criar funções serverless na AWS e automatizar tarefas na nuvem.  
+🔗 [Acessar o Lab](https://furry-thursday-4d8.notion.site/Trabalhando-com-o-AWS-Lambda-13edb781745081618dded9d4d789ec58)
+
+---
+
+### Roteamento de Failover no Amazon Route 53  
+Implemente um roteamento de alta disponibilidade para seus serviços utilizando o Route 53.  
+🔗 [Acessar o Lab](https://furry-thursday-4d8.notion.site/Roteamento-de-failover-do-Amazon-Route-53-13edb7817450815ea429df4f73ddd22d)
+
+---
+
+### Auto Scaling na AWS (Linux)  
+Implemente escalabilidade automática de instâncias EC2 com base em demanda.  
+🔗 [Acessar o Lab](https://furry-thursday-4d8.notion.site/Usar-o-Auto-Scaling-na-AWS-Linux-13edb7817450813780a6dd5814647c78)
+
+---
+
+### Amazon EC2 Instances (Desafio)  
+Coloque em prática seus conhecimentos em EC2 enfrentando um desafio real.  
+🔗 [Acessar o Lab](https://furry-thursday-4d8.notion.site/Amazon-EC2-Instances-Desafio-13edb78174508196a4b3f253934135a5)
+
+---
+
+### Criando Instâncias no Amazon EC2  
+Aprenda a lançar e gerenciar instâncias de máquinas virtuais (EC2) na AWS.  
+🔗 [Acessar o Lab](https://furry-thursday-4d8.notion.site/Criando-inst-ncias-do-Amazon-EC2-13edb7817450811b831fda3b5a929188)
+
+---
+
+### Instalando e configurando a AWS CLI  
+Configure e utilize a AWS CLI para gerenciar recursos diretamente pelo terminal.  
+🔗 [Acessar o Lab](https://furry-thursday-4d8.notion.site/Instalar-e-configurar-a-CLI-da-AWS-13edb781745081329c0fc13007b6b86c)
+
+---
+
+### Migração para o Amazon RDS  
+Realize a migração de um banco de dados local para o Amazon RDS na AWS.  
+🔗 [Acessar o Lab](https://furry-thursday-4d8.notion.site/Migra-o-para-o-Amazon-RDS-13edb7817450811587d7f103028df961)
+
+---
+
+### Configurando uma VPC e Acessando uma EC2 Privada  
+Crie uma VPC com instâncias em subnets privadas e acesse de forma segura.  
+🔗 [Acessar o Lab](https://furry-thursday-4d8.notion.site/Configurar-uma-VPC-e-Acessar-uma-EC2-Privada-13edb781745081e59be8c361608aaed4)
+
+---
+
+### Solucionando problemas de uma VPC  
+Identifique e corrija problemas comuns de redes na AWS.  
+🔗 [Acessar o Lab](https://furry-thursday-4d8.notion.site/Lab-Solucionando-problemas-de-uma-VPC-13edb781745081d38832fa86233d7845)
+
+---
+
+### Trabalhando com Amazon EBS  
+Saiba como criar e gerenciar volumes de armazenamento EBS para EC2.  
+🔗 [Acessar o Lab](https://furry-thursday-4d8.notion.site/Lab-Trabalhando-com-o-Amazon-EBS-13edb781745081b0a1c5e570c2d046ed)
+
+---
+
+### Laboratório de Desafio: Amazon S3  
+Teste seus conhecimentos criando soluções utilizando o Amazon S3.  
+🔗 [Acessar o Lab](https://furry-thursday-4d8.notion.site/Laborat-rio-de-desafio-Amazon-S3-13edb781745081778d98cc6e4d80ee45)
+
+---
+
+### Gerenciando o Armazenamento  
+Gerencie de forma eficiente o armazenamento na AWS utilizando diferentes serviços.  
+🔗 [Acessar o Lab](https://furry-thursday-4d8.notion.site/Gerenciando-o-armazenamento-13edb781745081ffb344c3f1f886e22a)
+
+---
+
+### Otimizando a Utilização  
+Aprenda boas práticas para otimizar custos e recursos dentro da AWS.  
+🔗 [Acessar o Lab](https://furry-thursday-4d8.notion.site/Otimizar-a-utiliza-o-13edb781745081a4b09fd8f1dee0f70e)
+
+---
+
+### Monitorando a Infraestrutura  
+Implemente monitoramento eficiente de seus serviços utilizando CloudWatch e outros recursos.  
+🔗 [Acessar o Lab](https://furry-thursday-4d8.notion.site/Monitorando-a-Infraestrutura-13edb781745081c9a1cfee9d86836422)
+
+---
+
+### Trabalhando com o Amazon S3  
+Laboratório prático e dinâmico focado no serviço de armazenamento Amazon S3.  
+🔗 [Acessar o Lab](https://furry-thursday-4d8.notion.site/Trabalhando-com-o-Amazon-S3-13edb781745081788a37c3a4a865b9b9)
+
+---
+
+### Trabalhando com AWS CloudTrail  
+Implemente auditoria e rastreamento de atividades na sua conta AWS com o CloudTrail.  
+🔗 [Acessar o Lab](https://furry-thursday-4d8.notion.site/Trabalhando-com-o-AWS-CloudTrail-13edb7817450819a896ef38e71cf69f6)
+
+
+> "A educação é a arma mais poderosa que você pode usar para mudar o mundo."  
+> ― Nelson Mandela

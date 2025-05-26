@@ -4,14 +4,28 @@
     "href": "sobre.html",
     "title": "Sobre mim",
     "section": "",
-    "text": "Me chamo Yuri, sou desenvolvedor web e analista de dados. Trabalho com Python, React, SQL e gosto muito de aprender e compartilhar conhecimento.\nEste blog é um espaço para documentar minha jornada, projetos e aprendizados."
+    "text": "Me chamo Yuri, sou desenvolvedor web e analista de dados. Trabalho com Python, React, SQL e gosto muito de aprender e compartilhar conhecimento. Me chamo Yuri, sou desenvolvedor web e analista de dados. Trabalho com Python, React, SQL e gosto muito de aprender e compartilhar conhecimento.\n\n\n\n\nEste blog é um espaço para documentar minha jornada, projetos e aprendizados. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\n\n\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "👋 Bem-vindo ao meu blog!",
     "section": "",
-    "text": "Aqui compartilho meus projetos, aprendizados e algumas reflexões sobre tecnologia, programação e análise de dados.\n🚀 Explore os posts e projetos no menu acima."
+    "text": "Sou Yuri, profissional de tecnologia apaixonado por desenvolvimento web, mobile, análise de dados e soluções em nuvem.\nAqui compartilho meus projetos, estudos e reflexões sobre tecnologia, programação, dados e inovação.\n🚀 Explore os tópicos no menu acima para conhecer mais sobre meus trabalhos, desafios e aprendizados!"
+  },
+  {
+    "objectID": "dashboards.html",
+    "href": "dashboards.html",
+    "title": "Portfólio Power BI",
+    "section": "",
+    "text": "Análise de Performance de Campanhas\nDashboard que monitora métricas essenciais de marketing digital: - ROI por canal (Google Ads, Meta, LinkedIn) - Taxa de conversão por público-alvo - Custo por lead adquirido - Tendências sazonais de engajamento\n ▶️ Visualizar Online\n\n\n\n\nPainel de Gestão Comercial\nVisualização interativa do pipeline comercial: - Metas vs realizado por trimestre - Ticket médio por categoria de produto - Análise ABC de clientes - Projeção de receita para os próximos 6 meses\n ▶️ Visualizar Online\n\n\n\n\nGestão Estratégica de Talentos\nIndicadores-chave para departamento de RH: - Turnover voluntário/involuntário - Satisfação organizacional (eNPS) - Tempo médio de preenchimento de vagas - Diversidade por gênero e faixa etária\n ▶️ Visualizar Online\n\n\n\n\nMonitoramento Operacional\nOtimização da cadeia logística: - Tempo médio de entrega por região - Custo logístico vs orçamento - Nível de serviço (OTIF) - Análise de gargalos na distribuição\n ▶️ Visualizar Online\n\n\n\n\nGestão Financeira Corporativa\nPrincipais métricas financeiras: - Fluxo de caixa consolidado - Análise DRE por unidade de negócio - Projeção de receitas/despesas - Indicadores de liquidez e endividamento\n ▶️ Visualizar Online\n\n\n\n\nFechamento Contábil Mensal\nAutomação de processos contábeis: - Balanços patrimoniais interativos - Conciliação bancária automatizada - Impostos por jurisdição - Análise de desvios orçamentários\n ▶️ Visualizar Online\n\n\n\n\nAnálise de Investimentos\nMonitoramento de carteiras: - Volatilidade por ativo (ações, FIIs) - Correlação entre setores - Simulação de cenários - Alertas de stop gain/loss\n ▶️ Visualizar Online"
+  },
+  {
+    "objectID": "dashboards.html#projetos",
+    "href": "dashboards.html#projetos",
+    "title": "Portfólio Power BI",
+    "section": "",
+    "text": "Análise de Performance de Campanhas\nDashboard que monitora métricas essenciais de marketing digital: - ROI por canal (Google Ads, Meta, LinkedIn) - Taxa de conversão por público-alvo - Custo por lead adquirido - Tendências sazonais de engajamento\n ▶️ Visualizar Online\n\n\n\n\nPainel de Gestão Comercial\nVisualização interativa do pipeline comercial: - Metas vs realizado por trimestre - Ticket médio por categoria de produto - Análise ABC de clientes - Projeção de receita para os próximos 6 meses\n ▶️ Visualizar Online\n\n\n\n\nGestão Estratégica de Talentos\nIndicadores-chave para departamento de RH: - Turnover voluntário/involuntário - Satisfação organizacional (eNPS) - Tempo médio de preenchimento de vagas - Diversidade por gênero e faixa etária\n ▶️ Visualizar Online\n\n\n\n\nMonitoramento Operacional\nOtimização da cadeia logística: - Tempo médio de entrega por região - Custo logístico vs orçamento - Nível de serviço (OTIF) - Análise de gargalos na distribuição\n ▶️ Visualizar Online\n\n\n\n\nGestão Financeira Corporativa\nPrincipais métricas financeiras: - Fluxo de caixa consolidado - Análise DRE por unidade de negócio - Projeção de receitas/despesas - Indicadores de liquidez e endividamento\n ▶️ Visualizar Online\n\n\n\n\nFechamento Contábil Mensal\nAutomação de processos contábeis: - Balanços patrimoniais interativos - Conciliação bancária automatizada - Impostos por jurisdição - Análise de desvios orçamentários\n ▶️ Visualizar Online\n\n\n\n\nAnálise de Investimentos\nMonitoramento de carteiras: - Volatilidade por ativo (ações, FIIs) - Correlação entre setores - Simulação de cenários - Alertas de stop gain/loss\n ▶️ Visualizar Online"
   },
   {
     "objectID": "about.html",
@@ -21,31 +35,31 @@
     "text": "About this site"
   },
   {
-    "objectID": "projetos.html",
-    "href": "projetos.html",
-    "title": "Projetos",
+    "objectID": "engenhariaDeDados.html",
+    "href": "engenhariaDeDados.html",
+    "title": "Engenharia de dados",
     "section": "",
-    "text": "Uma memecoin criada como experimento de blockchain e marketing digital."
+    "text": "Série de tutoriais e projetos práticos cobrindo: - Fundamentos de ETL - Pipelines de dados - Boas práticas de engenharia de dados\n(Previsão de lançamento:  )"
   },
   {
-    "objectID": "projetos.html#pharmafun",
-    "href": "projetos.html#pharmafun",
-    "title": "Projetos",
+    "objectID": "engenhariaDeDados.html#em-desenvolvimento",
+    "href": "engenhariaDeDados.html#em-desenvolvimento",
+    "title": "Engenharia de dados",
     "section": "",
-    "text": "Uma memecoin criada como experimento de blockchain e marketing digital."
+    "text": "Série de tutoriais e projetos práticos cobrindo: - Fundamentos de ETL - Pipelines de dados - Boas práticas de engenharia de dados\n(Previsão de lançamento:  )"
   },
   {
-    "objectID": "projetos.html#dashboards-de-dados",
-    "href": "projetos.html#dashboards-de-dados",
-    "title": "Projetos",
-    "section": "📊 Dashboards de Dados",
-    "text": "📊 Dashboards de Dados\nCriação de dashboards utilizando Power BI e Streamlit."
+    "objectID": "labsAWSTutoriaisPraticos.html",
+    "href": "labsAWSTutoriaisPraticos.html",
+    "title": "💻 Laboratórios Práticos",
+    "section": "",
+    "text": "Olá! É com grande satisfação que compartilho os laboratórios práticos que desenvolvi durante minha formação na Escola da Nuvem, um programa educacional que oferece capacitação profissional em cloud computing, por meio de aulas diárias ao vivo — tanto online quanto presenciais. A metodologia é imersiva, combinando fundamentos teóricos com prática hands-on em ambientes reais da AWS.\nDurante essa jornada, contei com a orientação do instrutor João Gaioso, cuja expertise e abordagem pedagógica foram fundamentais para o meu desenvolvimento. Cada laboratório foi cuidadosamente estruturado para simular cenários reais do mercado, proporcionando uma experiência prática que vai muito além do conhecimento teórico, desenvolvendo as habilidades essenciais para atuar na área de cloud.\nConvido você a conhecer mais sobre o programa por meio dos links acima, que direcionam aos perfis dos envolvidos nesta jornada."
   },
   {
-    "objectID": "projetos.html#aplicações-web",
-    "href": "projetos.html#aplicações-web",
-    "title": "Projetos",
-    "section": "🌐 Aplicações Web",
-    "text": "🌐 Aplicações Web\nDesenvolvimento de aplicações web com React e FastAPI."
+    "objectID": "labsAWSTutoriaisPraticos.html#lista-de-labs-na-prática",
+    "href": "labsAWSTutoriaisPraticos.html#lista-de-labs-na-prática",
+    "title": "💻 Laboratórios Práticos",
+    "section": "🚀 Lista de Labs na prática",
+    "text": "🚀 Lista de Labs na prática\n\nCriando VPC e Servidor Web\nAprenda como configurar uma rede virtual (VPC) e hospedar um servidor web na AWS.\n🔗 Acessar o Lab\n\n\n\nServidor de Banco de Dados + Aplicação Web\nMonte um ambiente com banco de dados e faça a integração com uma aplicação web.\n🔗 Acessar o Lab\n\n\n\nLab IAM\nExplore como criar e gerenciar usuários, grupos e permissões com o AWS IAM.\n🔗 Acessar o Lab\n\n\n\nAWS Systems Manager\nSaiba como gerenciar instâncias EC2 de forma segura e eficiente sem necessidade de acesso SSH.\n🔗 Acessar o Lab\n\n\n\nCriando um site estático no S3\nAprenda a hospedar um site estático de forma simples, escalável e barata na AWS usando o S3.\n🔗 Acessar o Lab\n\n\n\nSolucionando problemas na criação de EC2 via CLI\nDescubra como solucionar erros e problemas comuns ao criar instâncias EC2 pela linha de comando.\n🔗 Acessar o Lab\n\n\n\nTrabalhando com AWS Lambda\nAprenda como criar funções serverless na AWS e automatizar tarefas na nuvem.\n🔗 Acessar o Lab\n\n\n\nRoteamento de Failover no Amazon Route 53\nImplemente um roteamento de alta disponibilidade para seus serviços utilizando o Route 53.\n🔗 Acessar o Lab\n\n\n\nAuto Scaling na AWS (Linux)\nImplemente escalabilidade automática de instâncias EC2 com base em demanda.\n🔗 Acessar o Lab\n\n\n\nAmazon EC2 Instances (Desafio)\nColoque em prática seus conhecimentos em EC2 enfrentando um desafio real.\n🔗 Acessar o Lab\n\n\n\nCriando Instâncias no Amazon EC2\nAprenda a lançar e gerenciar instâncias de máquinas virtuais (EC2) na AWS.\n🔗 Acessar o Lab\n\n\n\nInstalando e configurando a AWS CLI\nConfigure e utilize a AWS CLI para gerenciar recursos diretamente pelo terminal.\n🔗 Acessar o Lab\n\n\n\nMigração para o Amazon RDS\nRealize a migração de um banco de dados local para o Amazon RDS na AWS.\n🔗 Acessar o Lab\n\n\n\nConfigurando uma VPC e Acessando uma EC2 Privada\nCrie uma VPC com instâncias em subnets privadas e acesse de forma segura.\n🔗 Acessar o Lab\n\n\n\nSolucionando problemas de uma VPC\nIdentifique e corrija problemas comuns de redes na AWS.\n🔗 Acessar o Lab\n\n\n\nTrabalhando com Amazon EBS\nSaiba como criar e gerenciar volumes de armazenamento EBS para EC2.\n🔗 Acessar o Lab\n\n\n\nLaboratório de Desafio: Amazon S3\nTeste seus conhecimentos criando soluções utilizando o Amazon S3.\n🔗 Acessar o Lab\n\n\n\nGerenciando o Armazenamento\nGerencie de forma eficiente o armazenamento na AWS utilizando diferentes serviços.\n🔗 Acessar o Lab\n\n\n\nOtimizando a Utilização\nAprenda boas práticas para otimizar custos e recursos dentro da AWS.\n🔗 Acessar o Lab\n\n\n\nMonitorando a Infraestrutura\nImplemente monitoramento eficiente de seus serviços utilizando CloudWatch e outros recursos.\n🔗 Acessar o Lab\n\n\n\nTrabalhando com o Amazon S3\nLaboratório prático e dinâmico focado no serviço de armazenamento Amazon S3.\n🔗 Acessar o Lab\n\n\n\nTrabalhando com AWS CloudTrail\nImplemente auditoria e rastreamento de atividades na sua conta AWS com o CloudTrail.\n🔗 Acessar o Lab\n\n“A educação é a arma mais poderosa que você pode usar para mudar o mundo.”\n― Nelson Mandela"
   }
 ]

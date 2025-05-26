@@ -3,6 +3,8 @@ title: "👋 Bem-vindo ao meu blog!"
 format: html
 ---
 
-Aqui compartilho meus projetos, aprendizados e algumas reflexões sobre tecnologia, programação e análise de dados.
+Sou **Yuri**, profissional de tecnologia apaixonado por **desenvolvimento web, mobile, análise de dados e soluções em nuvem.** 
 
-🚀 Explore os posts e projetos no menu acima.
+Aqui compartilho meus **projetos, estudos e reflexões** sobre tecnologia, programação, dados e inovação.
+
+🚀 Explore os tópicos no menu acima para conhecer mais sobre meus trabalhos, desafios e aprendizados!

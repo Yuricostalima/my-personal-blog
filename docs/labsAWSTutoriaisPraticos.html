@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Projetos – Yuri | Meu Blog</title>
+<title>💻 Laboratórios Práticos – Yuri | Meu Blog</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -94,8 +94,16 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Início</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./projetos.html" aria-current="page"> 
-<span class="menu-text">Projetos</span></a>
+    <a class="nav-link" href="./dashboards.html"> 
+<span class="menu-text">Dashboards | BI</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="./labsAWSTutoriaisPraticos.html" aria-current="page"> 
+<span class="menu-text">Labs | AWS</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./engenhariaDeDados.html"> 
+<span class="menu-text">Engenharia</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./sobre.html"> 
@@ -117,9 +125,31 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#pharmafun" id="toc-pharmafun" class="nav-link active" data-scroll-target="#pharmafun">🔥 PharmaFun</a></li>
-  <li><a href="#dashboards-de-dados" id="toc-dashboards-de-dados" class="nav-link" data-scroll-target="#dashboards-de-dados">📊 Dashboards de Dados</a></li>
-  <li><a href="#aplicações-web" id="toc-aplicações-web" class="nav-link" data-scroll-target="#aplicações-web">🌐 Aplicações Web</a></li>
+  <li><a href="#lista-de-labs-na-prática" id="toc-lista-de-labs-na-prática" class="nav-link active" data-scroll-target="#lista-de-labs-na-prática">🚀 Lista de Labs na prática</a>
+  <ul class="collapse">
+  <li><a href="#criando-vpc-e-servidor-web" id="toc-criando-vpc-e-servidor-web" class="nav-link" data-scroll-target="#criando-vpc-e-servidor-web">Criando VPC e Servidor Web</a></li>
+  <li><a href="#servidor-de-banco-de-dados-aplicação-web" id="toc-servidor-de-banco-de-dados-aplicação-web" class="nav-link" data-scroll-target="#servidor-de-banco-de-dados-aplicação-web">Servidor de Banco de Dados + Aplicação Web</a></li>
+  <li><a href="#lab-iam" id="toc-lab-iam" class="nav-link" data-scroll-target="#lab-iam">Lab IAM</a></li>
+  <li><a href="#aws-systems-manager" id="toc-aws-systems-manager" class="nav-link" data-scroll-target="#aws-systems-manager">AWS Systems Manager</a></li>
+  <li><a href="#criando-um-site-estático-no-s3" id="toc-criando-um-site-estático-no-s3" class="nav-link" data-scroll-target="#criando-um-site-estático-no-s3">Criando um site estático no S3</a></li>
+  <li><a href="#solucionando-problemas-na-criação-de-ec2-via-cli" id="toc-solucionando-problemas-na-criação-de-ec2-via-cli" class="nav-link" data-scroll-target="#solucionando-problemas-na-criação-de-ec2-via-cli">Solucionando problemas na criação de EC2 via CLI</a></li>
+  <li><a href="#trabalhando-com-aws-lambda" id="toc-trabalhando-com-aws-lambda" class="nav-link" data-scroll-target="#trabalhando-com-aws-lambda">Trabalhando com AWS Lambda</a></li>
+  <li><a href="#roteamento-de-failover-no-amazon-route-53" id="toc-roteamento-de-failover-no-amazon-route-53" class="nav-link" data-scroll-target="#roteamento-de-failover-no-amazon-route-53">Roteamento de Failover no Amazon Route 53</a></li>
+  <li><a href="#auto-scaling-na-aws-linux" id="toc-auto-scaling-na-aws-linux" class="nav-link" data-scroll-target="#auto-scaling-na-aws-linux">Auto Scaling na AWS (Linux)</a></li>
+  <li><a href="#amazon-ec2-instances-desafio" id="toc-amazon-ec2-instances-desafio" class="nav-link" data-scroll-target="#amazon-ec2-instances-desafio">Amazon EC2 Instances (Desafio)</a></li>
+  <li><a href="#criando-instâncias-no-amazon-ec2" id="toc-criando-instâncias-no-amazon-ec2" class="nav-link" data-scroll-target="#criando-instâncias-no-amazon-ec2">Criando Instâncias no Amazon EC2</a></li>
+  <li><a href="#instalando-e-configurando-a-aws-cli" id="toc-instalando-e-configurando-a-aws-cli" class="nav-link" data-scroll-target="#instalando-e-configurando-a-aws-cli">Instalando e configurando a AWS CLI</a></li>
+  <li><a href="#migração-para-o-amazon-rds" id="toc-migração-para-o-amazon-rds" class="nav-link" data-scroll-target="#migração-para-o-amazon-rds">Migração para o Amazon RDS</a></li>
+  <li><a href="#configurando-uma-vpc-e-acessando-uma-ec2-privada" id="toc-configurando-uma-vpc-e-acessando-uma-ec2-privada" class="nav-link" data-scroll-target="#configurando-uma-vpc-e-acessando-uma-ec2-privada">Configurando uma VPC e Acessando uma EC2 Privada</a></li>
+  <li><a href="#solucionando-problemas-de-uma-vpc" id="toc-solucionando-problemas-de-uma-vpc" class="nav-link" data-scroll-target="#solucionando-problemas-de-uma-vpc">Solucionando problemas de uma VPC</a></li>
+  <li><a href="#trabalhando-com-amazon-ebs" id="toc-trabalhando-com-amazon-ebs" class="nav-link" data-scroll-target="#trabalhando-com-amazon-ebs">Trabalhando com Amazon EBS</a></li>
+  <li><a href="#laboratório-de-desafio-amazon-s3" id="toc-laboratório-de-desafio-amazon-s3" class="nav-link" data-scroll-target="#laboratório-de-desafio-amazon-s3">Laboratório de Desafio: Amazon S3</a></li>
+  <li><a href="#gerenciando-o-armazenamento" id="toc-gerenciando-o-armazenamento" class="nav-link" data-scroll-target="#gerenciando-o-armazenamento">Gerenciando o Armazenamento</a></li>
+  <li><a href="#otimizando-a-utilização" id="toc-otimizando-a-utilização" class="nav-link" data-scroll-target="#otimizando-a-utilização">Otimizando a Utilização</a></li>
+  <li><a href="#monitorando-a-infraestrutura" id="toc-monitorando-a-infraestrutura" class="nav-link" data-scroll-target="#monitorando-a-infraestrutura">Monitorando a Infraestrutura</a></li>
+  <li><a href="#trabalhando-com-o-amazon-s3" id="toc-trabalhando-com-o-amazon-s3" class="nav-link" data-scroll-target="#trabalhando-com-o-amazon-s3">Trabalhando com o Amazon S3</a></li>
+  <li><a href="#trabalhando-com-aws-cloudtrail" id="toc-trabalhando-com-aws-cloudtrail" class="nav-link" data-scroll-target="#trabalhando-com-aws-cloudtrail">Trabalhando com AWS CloudTrail</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -128,7 +158,8 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Projetos</h1>
+<h1 class="title">💻 Laboratórios Práticos</h1>
+<p class="subtitle lead">Experiência de Aprendizado na Escola da Nuvem</p>
 </div>
 
 
@@ -145,19 +176,149 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="pharmafun" class="level2">
-<h2 class="anchored" data-anchor-id="pharmafun">🔥 PharmaFun</h2>
-<p>Uma memecoin criada como experimento de blockchain e marketing digital.</p>
+<p>Olá! É com grande satisfação que compartilho os laboratórios práticos que desenvolvi durante minha formação na <strong><a href="https://www.linkedin.com/search/results/all/?heroEntityKey=urn%3Ali%3Aorganization%3A71195798&amp;keywords=Escola%20da%20Nuvem&amp;origin=ENTITY_SEARCH_HOME_HISTORY&amp;sid=60Y">Escola da Nuvem</a></strong>, um programa educacional que oferece capacitação profissional em <em>cloud computing</em>, por meio de aulas diárias ao vivo — tanto online quanto presenciais. A metodologia é imersiva, combinando fundamentos teóricos com prática <em>hands-on</em> em ambientes reais da AWS.</p>
+<p>Durante essa jornada, contei com a orientação do instrutor <strong><a href="https://www.linkedin.com/in/jo%C3%A3o-gaioso-7825551a0/">João Gaioso</a></strong>, cuja expertise e abordagem pedagógica foram fundamentais para o meu desenvolvimento. Cada laboratório foi cuidadosamente estruturado para simular cenários reais do mercado, proporcionando uma experiência prática que vai muito além do conhecimento teórico, desenvolvendo as habilidades essenciais para atuar na área de <em>cloud</em>.</p>
+<p>Convido você a conhecer mais sobre o programa por meio dos links acima, que direcionam aos perfis dos envolvidos nesta jornada.</p>
+<hr>
+<section id="lista-de-labs-na-prática" class="level2">
+<h2 class="anchored" data-anchor-id="lista-de-labs-na-prática">🚀 Lista de Labs na prática</h2>
+<section id="criando-vpc-e-servidor-web" class="level3">
+<h3 class="anchored" data-anchor-id="criando-vpc-e-servidor-web">Criando VPC e Servidor Web</h3>
+<p>Aprenda como configurar uma rede virtual (VPC) e hospedar um servidor web na AWS.<br>
+🔗 <a href="https://furry-thursday-4d8.notion.site/Lab-Criando-VPC-e-Servidor-Web-13edb781745081c78333e4e739ebe65e">Acessar o Lab</a></p>
+<hr>
 </section>
-<section id="dashboards-de-dados" class="level2">
-<h2 class="anchored" data-anchor-id="dashboards-de-dados">📊 Dashboards de Dados</h2>
-<p>Criação de dashboards utilizando Power BI e Streamlit.</p>
+<section id="servidor-de-banco-de-dados-aplicação-web" class="level3">
+<h3 class="anchored" data-anchor-id="servidor-de-banco-de-dados-aplicação-web">Servidor de Banco de Dados + Aplicação Web</h3>
+<p>Monte um ambiente com banco de dados e faça a integração com uma aplicação web.<br>
+🔗 <a href="https://furry-thursday-4d8.notion.site/Crie-seu-servidor-de-banco-de-dados-e-interaja-com-seu-banco-de-dados-usando-um-aplicativo-13edb781745081278118c768dd80cbd0">Acessar o Lab</a></p>
+<hr>
 </section>
-<section id="aplicações-web" class="level2">
-<h2 class="anchored" data-anchor-id="aplicações-web">🌐 Aplicações Web</h2>
-<p>Desenvolvimento de aplicações web com React e FastAPI.</p>
+<section id="lab-iam" class="level3">
+<h3 class="anchored" data-anchor-id="lab-iam">Lab IAM</h3>
+<p>Explore como criar e gerenciar usuários, grupos e permissões com o AWS IAM.<br>
+🔗 <a href="https://furry-thursday-4d8.notion.site/Lab-IAM-13edb7817450817d9419f9c3da279803">Acessar o Lab</a></p>
+<hr>
+</section>
+<section id="aws-systems-manager" class="level3">
+<h3 class="anchored" data-anchor-id="aws-systems-manager">AWS Systems Manager</h3>
+<p>Saiba como gerenciar instâncias EC2 de forma segura e eficiente sem necessidade de acesso SSH.<br>
+🔗 <a href="https://furry-thursday-4d8.notion.site/Usar-o-AWS-Systems-Manager-13edb78174508170ab67dc53a9600c7a">Acessar o Lab</a></p>
+<hr>
+</section>
+<section id="criando-um-site-estático-no-s3" class="level3">
+<h3 class="anchored" data-anchor-id="criando-um-site-estático-no-s3">Criando um site estático no S3</h3>
+<p>Aprenda a hospedar um site estático de forma simples, escalável e barata na AWS usando o S3.<br>
+🔗 <a href="https://furry-thursday-4d8.notion.site/Criar-um-site-est-tico-no-S3-13edb7817450810cb745d77a16f11a3d">Acessar o Lab</a></p>
+<hr>
+</section>
+<section id="solucionando-problemas-na-criação-de-ec2-via-cli" class="level3">
+<h3 class="anchored" data-anchor-id="solucionando-problemas-na-criação-de-ec2-via-cli">Solucionando problemas na criação de EC2 via CLI</h3>
+<p>Descubra como solucionar erros e problemas comuns ao criar instâncias EC2 pela linha de comando.<br>
+🔗 <a href="https://furry-thursday-4d8.notion.site/Solucionar-problemas-com-a-cria-o-de-uma-inst-ncia-do-EC2-via-CLI-13edb781745081e1aaf4ece6267f0731">Acessar o Lab</a></p>
+<hr>
+</section>
+<section id="trabalhando-com-aws-lambda" class="level3">
+<h3 class="anchored" data-anchor-id="trabalhando-com-aws-lambda">Trabalhando com AWS Lambda</h3>
+<p>Aprenda como criar funções serverless na AWS e automatizar tarefas na nuvem.<br>
+🔗 <a href="https://furry-thursday-4d8.notion.site/Trabalhando-com-o-AWS-Lambda-13edb781745081618dded9d4d789ec58">Acessar o Lab</a></p>
+<hr>
+</section>
+<section id="roteamento-de-failover-no-amazon-route-53" class="level3">
+<h3 class="anchored" data-anchor-id="roteamento-de-failover-no-amazon-route-53">Roteamento de Failover no Amazon Route 53</h3>
+<p>Implemente um roteamento de alta disponibilidade para seus serviços utilizando o Route 53.<br>
+🔗 <a href="https://furry-thursday-4d8.notion.site/Roteamento-de-failover-do-Amazon-Route-53-13edb7817450815ea429df4f73ddd22d">Acessar o Lab</a></p>
+<hr>
+</section>
+<section id="auto-scaling-na-aws-linux" class="level3">
+<h3 class="anchored" data-anchor-id="auto-scaling-na-aws-linux">Auto Scaling na AWS (Linux)</h3>
+<p>Implemente escalabilidade automática de instâncias EC2 com base em demanda.<br>
+🔗 <a href="https://furry-thursday-4d8.notion.site/Usar-o-Auto-Scaling-na-AWS-Linux-13edb7817450813780a6dd5814647c78">Acessar o Lab</a></p>
+<hr>
+</section>
+<section id="amazon-ec2-instances-desafio" class="level3">
+<h3 class="anchored" data-anchor-id="amazon-ec2-instances-desafio">Amazon EC2 Instances (Desafio)</h3>
+<p>Coloque em prática seus conhecimentos em EC2 enfrentando um desafio real.<br>
+🔗 <a href="https://furry-thursday-4d8.notion.site/Amazon-EC2-Instances-Desafio-13edb78174508196a4b3f253934135a5">Acessar o Lab</a></p>
+<hr>
+</section>
+<section id="criando-instâncias-no-amazon-ec2" class="level3">
+<h3 class="anchored" data-anchor-id="criando-instâncias-no-amazon-ec2">Criando Instâncias no Amazon EC2</h3>
+<p>Aprenda a lançar e gerenciar instâncias de máquinas virtuais (EC2) na AWS.<br>
+🔗 <a href="https://furry-thursday-4d8.notion.site/Criando-inst-ncias-do-Amazon-EC2-13edb7817450811b831fda3b5a929188">Acessar o Lab</a></p>
+<hr>
+</section>
+<section id="instalando-e-configurando-a-aws-cli" class="level3">
+<h3 class="anchored" data-anchor-id="instalando-e-configurando-a-aws-cli">Instalando e configurando a AWS CLI</h3>
+<p>Configure e utilize a AWS CLI para gerenciar recursos diretamente pelo terminal.<br>
+🔗 <a href="https://furry-thursday-4d8.notion.site/Instalar-e-configurar-a-CLI-da-AWS-13edb781745081329c0fc13007b6b86c">Acessar o Lab</a></p>
+<hr>
+</section>
+<section id="migração-para-o-amazon-rds" class="level3">
+<h3 class="anchored" data-anchor-id="migração-para-o-amazon-rds">Migração para o Amazon RDS</h3>
+<p>Realize a migração de um banco de dados local para o Amazon RDS na AWS.<br>
+🔗 <a href="https://furry-thursday-4d8.notion.site/Migra-o-para-o-Amazon-RDS-13edb7817450811587d7f103028df961">Acessar o Lab</a></p>
+<hr>
+</section>
+<section id="configurando-uma-vpc-e-acessando-uma-ec2-privada" class="level3">
+<h3 class="anchored" data-anchor-id="configurando-uma-vpc-e-acessando-uma-ec2-privada">Configurando uma VPC e Acessando uma EC2 Privada</h3>
+<p>Crie uma VPC com instâncias em subnets privadas e acesse de forma segura.<br>
+🔗 <a href="https://furry-thursday-4d8.notion.site/Configurar-uma-VPC-e-Acessar-uma-EC2-Privada-13edb781745081e59be8c361608aaed4">Acessar o Lab</a></p>
+<hr>
+</section>
+<section id="solucionando-problemas-de-uma-vpc" class="level3">
+<h3 class="anchored" data-anchor-id="solucionando-problemas-de-uma-vpc">Solucionando problemas de uma VPC</h3>
+<p>Identifique e corrija problemas comuns de redes na AWS.<br>
+🔗 <a href="https://furry-thursday-4d8.notion.site/Lab-Solucionando-problemas-de-uma-VPC-13edb781745081d38832fa86233d7845">Acessar o Lab</a></p>
+<hr>
+</section>
+<section id="trabalhando-com-amazon-ebs" class="level3">
+<h3 class="anchored" data-anchor-id="trabalhando-com-amazon-ebs">Trabalhando com Amazon EBS</h3>
+<p>Saiba como criar e gerenciar volumes de armazenamento EBS para EC2.<br>
+🔗 <a href="https://furry-thursday-4d8.notion.site/Lab-Trabalhando-com-o-Amazon-EBS-13edb781745081b0a1c5e570c2d046ed">Acessar o Lab</a></p>
+<hr>
+</section>
+<section id="laboratório-de-desafio-amazon-s3" class="level3">
+<h3 class="anchored" data-anchor-id="laboratório-de-desafio-amazon-s3">Laboratório de Desafio: Amazon S3</h3>
+<p>Teste seus conhecimentos criando soluções utilizando o Amazon S3.<br>
+🔗 <a href="https://furry-thursday-4d8.notion.site/Laborat-rio-de-desafio-Amazon-S3-13edb781745081778d98cc6e4d80ee45">Acessar o Lab</a></p>
+<hr>
+</section>
+<section id="gerenciando-o-armazenamento" class="level3">
+<h3 class="anchored" data-anchor-id="gerenciando-o-armazenamento">Gerenciando o Armazenamento</h3>
+<p>Gerencie de forma eficiente o armazenamento na AWS utilizando diferentes serviços.<br>
+🔗 <a href="https://furry-thursday-4d8.notion.site/Gerenciando-o-armazenamento-13edb781745081ffb344c3f1f886e22a">Acessar o Lab</a></p>
+<hr>
+</section>
+<section id="otimizando-a-utilização" class="level3">
+<h3 class="anchored" data-anchor-id="otimizando-a-utilização">Otimizando a Utilização</h3>
+<p>Aprenda boas práticas para otimizar custos e recursos dentro da AWS.<br>
+🔗 <a href="https://furry-thursday-4d8.notion.site/Otimizar-a-utiliza-o-13edb781745081a4b09fd8f1dee0f70e">Acessar o Lab</a></p>
+<hr>
+</section>
+<section id="monitorando-a-infraestrutura" class="level3">
+<h3 class="anchored" data-anchor-id="monitorando-a-infraestrutura">Monitorando a Infraestrutura</h3>
+<p>Implemente monitoramento eficiente de seus serviços utilizando CloudWatch e outros recursos.<br>
+🔗 <a href="https://furry-thursday-4d8.notion.site/Monitorando-a-Infraestrutura-13edb781745081c9a1cfee9d86836422">Acessar o Lab</a></p>
+<hr>
+</section>
+<section id="trabalhando-com-o-amazon-s3" class="level3">
+<h3 class="anchored" data-anchor-id="trabalhando-com-o-amazon-s3">Trabalhando com o Amazon S3</h3>
+<p>Laboratório prático e dinâmico focado no serviço de armazenamento Amazon S3.<br>
+🔗 <a href="https://furry-thursday-4d8.notion.site/Trabalhando-com-o-Amazon-S3-13edb781745081788a37c3a4a865b9b9">Acessar o Lab</a></p>
+<hr>
+</section>
+<section id="trabalhando-com-aws-cloudtrail" class="level3">
+<h3 class="anchored" data-anchor-id="trabalhando-com-aws-cloudtrail">Trabalhando com AWS CloudTrail</h3>
+<p>Implemente auditoria e rastreamento de atividades na sua conta AWS com o CloudTrail.<br>
+🔗 <a href="https://furry-thursday-4d8.notion.site/Trabalhando-com-o-AWS-CloudTrail-13edb7817450819a896ef38e71cf69f6">Acessar o Lab</a></p>
+<blockquote class="blockquote">
+<p>“A educação é a arma mais poderosa que você pode usar para mudar o mundo.”<br>
+― Nelson Mandela</p>
+</blockquote>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->

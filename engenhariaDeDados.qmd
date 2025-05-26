@@ -1,0 +1,14 @@
+---
+title: "Engenharia de dados"
+subtitle: "Portfólio de soluções com minha experiencias em engenharia de dados"
+---
+
+## 🚧 Em Desenvolvimento
+
+### 📚 Projetos de Engenharia de Dados para Iniciantes
+Série de tutoriais e projetos práticos cobrindo:
+- Fundamentos de ETL
+- Pipelines de dados
+- Boas práticas de engenharia de dados
+
+*(Previsão de lançamento: ![Badge](https://img.shields.io/badge/STATUS-EM_BREVE-orange) )*

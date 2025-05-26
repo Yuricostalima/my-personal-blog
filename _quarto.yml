@@ -10,8 +10,14 @@ website:
     left:
       - text: "Início"
         href: index.qmd
-      - text: "Projetos"
-        href: projetos.qmd
+
+      - text: "Dashboards | BI"
+        href: dashboards.qmd
+      - text: "Labs | AWS"
+        href: labsAWSTutoriaisPraticos.qmd
+      - text: "Engenharia"
+        href: engenhariaDeDados.qmd
+      
       - text: "Sobre"
         href: sobre.qmd
 

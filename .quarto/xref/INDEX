@@ -13,5 +13,14 @@
   },
   "projetos.qmd": {
     "projetos.html": "5f75a123"
+  },
+  "dashboards.qmd": {
+    "dashboards.html": "33e346e6"
+  },
+  "engenhariaDeDados.qmd": {
+    "engenhariaDeDados.html": "4b60ab44"
+  },
+  "labsAWSTutoriaisPraticos.qmd": {
+    "labsAWSTutoriaisPraticos.html": "ac682d6e"
   }
 }
