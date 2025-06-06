@@ -1,8 +1,3 @@
----
-title: "👋 Bem-vindo ao meu blog!"
-format: html
----
-
 Olá! Me chamo **Yuri**, sou profissional da área de tecnologia, apaixonado por **resoluções de problemas, aprender continuamente e transformar dados e códigos em soluções eficientes.**
 
 Atualmente atuo nas áreas de **análise de dados, soluções em nuvem (AWS), engenharia de dados, business intelligence (BI) e automações com Power Automate e Python**. Além disso, possuo conhecimento em **desenvolvimento web e mobile**, sempre buscando evoluir, acompanhar as tendências do mercado e aprender com outros profissionais.
@@ -13,5 +8,11 @@ Aqui neste blog, compartilho meus **projetos, estudos, desafios e reflexões** s
 
 🚀 No menu acima, você encontrará projetos práticos que desenvolvi ao longo da minha trajetória na tecnologia. Aproveite para conhecer mais sobre meus trabalhos, desafios e aprendizados!
 
+ Onde me encontrar:
+
+* 🤝 **Carreira e Networking:** **[LinkedIn](https://www.linkedin.com/in/yuricostalima/)**
+* 👨‍💻 **Projetos e Códigos:** **[GitHub](https://github.com/Yuricostalima)**
+* ✉️ **E-mail:** **[yuricosta8675@gmail.com](https://mailto:yuricosta8675@gmail.com/)**
+* 💬 **WhatsApp:** **[Me chame no WhatsApp](https://wa.me/5585999259876?text=Olá%20Yuri!%20Vi%20seu%20blog%20e%20gostaria%20de%20conversar%20sobre%20sua%20jornada%20em%20tecnologia.)**
 
 ---
